@@ -11,7 +11,7 @@
   },
   "private": true,
   "dependencies": {
-    "@ai-apps/angular": "/Users/Akshat.Patel@ibm.com/Desktop/Carbon/carbon-addons-iot-react/packages/angular/dist",
+    "@ai-apps/angular": "latest",
     "@angular/animations": "~11.0.3",
     "@angular/common": "~11.0.3",
     "@angular/compiler": "~11.0.3",
